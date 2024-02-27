@@ -1,0 +1,6 @@
+London 53.1
+Paris 55.0
+Madrid 59.1
+Lisbon 63.4
+Rome 60.4
+Geneva 51.8

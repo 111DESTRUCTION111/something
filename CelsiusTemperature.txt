@@ -1,0 +1,7 @@
+London 11.7222
+Paris 12.7778
+Madrid 15.0556
+Lisbon 17.4444
+Rome 15.7778
+Geneva 11
+Geneva -11.6667
